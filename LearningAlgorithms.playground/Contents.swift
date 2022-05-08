@@ -1044,6 +1044,3 @@ example(of: "removing a value") {
   tree.remove(10)
   print(tree)
 }
-
-
-
